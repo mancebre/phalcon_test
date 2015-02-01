@@ -7,8 +7,7 @@ use Phalcon\Mvc\Model,
 
 class Robots extends Model
 {
-
-
+    
     public function validation()
     {
         //Type must be: droid, mechanical or virtual
